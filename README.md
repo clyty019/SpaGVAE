@@ -63,7 +63,7 @@ Two further findings characterise *when* the variational model matters:
 ## Installation
 
 ```bash
-git clone https://github.com/RRRussell/StaR.git
+git clone https://github.com/clyty019/StaR.git
 cd StaR
 conda create -n spagvae python=3.8 -y && conda activate spagvae
 pip install -r requirements.txt
